@@ -1,8 +1,31 @@
-## 🥁 드럼으로 Jazz Music하는 신입 Front-end 개발자 이진희입니다.___ 끝없이 항해하고 있습니다. 
+## 🥁 드럼으로 Jazz Music하는 신입 Front-end 개발자 이진희입니다.
 
-### Wassup Everybody, My name is Zeenii Lee        I'm Newbie Front-end Developer and Jazz Drummer and Musician       I'm Still Working to Web Programming Language
 
----------------------------
+개발자 직군으로 끝없이 항해하고 있는 중입니다.   
+
+
+
+## Wassup Everybody, My name is Zeenii Lee
+I'm Newbie Front-end Developer and Jazz Drummer and Musician.   
+I'm Still Working on
+
+## Contact me 
+
+<div> 
+
+
+  <span> 📬 <a href="zniilee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zniilee@gmail.com-EA4335?style=for-the-badge&logo=appveyor&logo=로고&logoColor=로고색상"/></a></span>
+
+  
+
+</div>
+
+
+
+
+
+for-the-badge&logo=appveyor
+
 
 
 
