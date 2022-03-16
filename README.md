@@ -7,14 +7,23 @@
 
 ## Wassup Everybody, My name is Zeenii Lee
 I'm Newbie Front-end Developer and Jazz Drummer and Musician.   
-I'm Still Working on
+I'm Still Working on Language
 
 ## Contact me 
 
 <div> 
-
-
-  <span> 📬 <a href="zniilee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zniilee@gmail.com-EA4335?style=for-the-badge&logo=appveyor&logo=로고&logoColor=로고색상"/></a></span>
+  <span> 
+    <a href="zniilee@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zniilee@gmail.com-EA4335?style=for-the-badge&logo=appveyor&logo=로고&logoColor=로고색상"/></a> 
+  </span>
+  
+  <span>
+    <a href=" https://velog.io/@zniilee" target="_blank"><img src="https://img.shields.io/badge/@zniilee-20C997?style=for-the-badge&logo=appveyor&logo=로고&logoColor=로고색상"/></a>
+  </span>
+  
+  <span>   
+  <a href="https://www.linkedin.com/in/zeeniilee/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/Zeenii Lee-0A66C2?style=for-the-badge&logo=appveyor&logo=&logoColor=로고색상"/></a>
+  </span>
+  
 
   
 
@@ -24,7 +33,12 @@ I'm Still Working on
 
 
 
+<!--
 for-the-badge&logo=appveyor
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
+
+-->
 
 
 
