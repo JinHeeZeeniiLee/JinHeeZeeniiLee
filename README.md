@@ -17,7 +17,7 @@ I'm Still Working on Language
   </span>
   
   <span>
-    <a href=" https://velog.io/@zniilee" target="_blank"><img src="https://img.shields.io/badge/@zniilee-20C997?style=for-the-badge&logo=appveyor&logo=로고&logoColor=로고색상"/></a>
+    <a href="https://velog.io/@zniilee" target="_blank"><img src="https://img.shields.io/badge/@zniilee-20C997?style=for-the-badge&logo=appveyor&logo=로고&logoColor=로고색상"/></a>
   </span>
   
   <span>   
