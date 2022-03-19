@@ -105,7 +105,7 @@ But, I'm Still Learning Though.
 
 개발자로서 부족함을 채우기 위해 다른 언어들도 공부하며 서버 개발 언어도 공부중입니다. 
 
-I knew what i'm not good enough to Software Enginner and Developer
+I knew what i'm not good enough to Software Enginner and Developer.  
 So, I Learning to New Skill and, Brush up on Back-end Language
 
 
