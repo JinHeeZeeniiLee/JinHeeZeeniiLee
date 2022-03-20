@@ -1,4 +1,4 @@
-## 🥁 드럼으로 Jazz Music하는 신입 Front-end 개발자 이진희입니다.
+## 신입 Front-end 개발자 이진희입니다.
 
 
 개발자 직군으로 끝없이 항해하고 있는 중입니다.   
@@ -6,7 +6,7 @@
 
 
 ## Wassup Everybody, My name is Zeenii Lee
-I'm Newbie Front-end Developer and Jazz Drummer and Musician.   
+I'm Newbie Front-end Developer.    
 I'm Still Working on Language
 
 ## Contact me 
